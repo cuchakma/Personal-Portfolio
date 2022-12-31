@@ -1,0 +1,8 @@
+.portfolio-footer .portfolio-social-icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}

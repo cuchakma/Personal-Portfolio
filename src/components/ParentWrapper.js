@@ -8,6 +8,7 @@ const ParentWrapper = ( props ) => {
             <div className={classes['portfolio-parent-wrapper']}>
                 {props.children}
             </div>
+            <div className={classes['portfolio-footer-bg']}></div>
         </div>
     )
 }

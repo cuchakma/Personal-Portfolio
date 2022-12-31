@@ -8,3 +8,9 @@
     max-width: 1440px;
     width: 100%;
 }
+
+.portfolio-footer-bg{
+    background-image: url('../img/footer.png');
+    height: 344px;
+    background-repeat: round;
+}
