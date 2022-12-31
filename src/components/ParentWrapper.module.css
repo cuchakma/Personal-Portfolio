@@ -1,0 +1,10 @@
+.portfolio-background-wrapper{
+    background-color: #F9FAFF;
+    width: 100%;
+}
+
+.portfolio-parent-wrapper{
+    margin: 0px auto 0px auto;
+    max-width: 1440px;
+    width: 100%;
+}

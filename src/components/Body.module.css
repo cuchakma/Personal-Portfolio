@@ -1,0 +1,18 @@
+.portfolio-project-head{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 72px;
+    text-align: center;
+    color: #25282B;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0px 0px 0px;
+}
+
+.portfolio-project-head h2{
+    border-bottom: 1px solid #FDC435;
+    padding: 10px;
+    margin: 0px;
+}

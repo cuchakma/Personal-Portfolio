@@ -1,0 +1,97 @@
+.portfolio-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+
+.portfolio-list{
+    display: flex;
+    justify-content: space-evenly;
+    z-index: 999999999;
+}
+
+.portfolio-header ul{
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 180%;
+    color: #25282B;
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.portfolio-list li p, .portfolio-name li p{
+    padding: 0px;
+    margin: 0px;
+}
+
+.portfolio-list li{
+    padding: 10px;
+}
+
+.portfolio-header-summary-wrapper{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+.portfolio-header-summary {
+    max-width: 468px;
+    width: 100%;
+}
+
+.portfolio-header-image-wrapper{
+    position: relative;
+    background-image: url('../img/yellow-bg-dash.png');
+    background-repeat: round;
+}
+
+.portfolio-header-summary .portfolio-header-para{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #FDC435;
+    padding: 0px 0px 10px 0px;
+    margin: 0px;
+}
+
+.portfolio-header-summary .portfolio-header-para-2 {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    color: #828282;
+    margin: 0px;
+    padding: 0px 0px 25px 0px;
+}
+
+.portfolio-header-summary .portfolio-header-heading{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 100%;
+    color: #25282B;
+    margin: 0px;
+    padding: 0px 0px 10px 0px;
+}
+
+.portfolio-projects-link {
+    background-color: #FDC435;
+    border-radius: 8px;
+    padding: 10px 26px;
+    margin:10px 10px 0px 0px;
+}
+
+.portfolio-linkedin-link{
+    border: 2px solid #25282B;
+    border-radius: 8px;
+    padding: 8px 24px;
+}
